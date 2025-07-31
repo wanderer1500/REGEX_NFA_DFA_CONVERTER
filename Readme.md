@@ -17,5 +17,7 @@
  <img src="images/example2_1.png" alt="Screenshot" width="400" height="300"/>
  <img src="images/example2_2.png" alt="Screenshot" width="400" height="300"/>
 
+## github
+- !(https://github.com/wanderer1500/REGEX_NFA_DFA_CONVERTER)
 
 
