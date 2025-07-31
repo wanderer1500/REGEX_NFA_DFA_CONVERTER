@@ -8,7 +8,7 @@
 ## How to run in terminal
 - g++ 22CS01060_assignment1.cpp
 - ./a.out
-- give the input regular expression (example: (a+b)*a)
+- give the input regular expression (example: (a+b)*.a)
 - press enter
 ### example1
  <img src="images/example1.png" alt="Screenshot" width="400" height="300"/>
