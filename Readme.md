@@ -6,7 +6,7 @@
 > Note: Use explicit concatenation operator (`.`) in the input.
 
 ## How to run in terminal
-- g++ 22CS01060_assignment1.cpp
+- g++ regex_to_nfa_dfa.cpp
 - ./a.out
 - give the input regular expression (example: (a+b)*.a)
 - press enter
